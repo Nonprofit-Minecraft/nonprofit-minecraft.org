@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<title>Fatal Error - MeowCat Storage Server - MeowCat Studio</title>
+		<style>
+		body {
+			font-family: "Segoe UI Light", "Segoe UI", Arial;
+			font-weight: lighter;
+			background-color: #0086ac;
+			scroll: none;
+		}
+		.content {
+			width: 700px; 
+			font-size: 4;
+			color: #FFFFFF;
+			margin: 10% auto;
+		}
+		a {
+			color: #FFFFFF;
+		}
+		</style>
+		<script type="text/javascript"> 
+		function clickIE() {
+			if (document.all) {
+				return false;
+			}
+		} 
+		function clickNS(e) {
+			if (document.layers||(document.getElementById&&!document.all)) { 
+				if (e.which==2||e.which==3) {
+					return false;
+				}
+			}
+		}
+		if (document.layers) {
+			document.captureEvents(Event.MOUSEDOWN);
+			document.onmousedown=clickNS;
+		} else {
+			document.onmouseup=clickNS;
+			document.oncontextmenu=clickIE;
+		} 
+		document.oncontextmenu=new Function("return false");
+		</script> 
+	</head>
+	<body> 
+		<div class="content">
+			<p style="font-size: 100pt; margin: 0; padding-bottom: 20pt">:(</p>
+			<p style="font-size: 20pt; margin: 0; padding: 0">You ran into a problem and need to</br>check your operation. You can close this page.</p>
+			</br>Close this page manually.</br></br>
+			<img src="/images/qr.png" style="float: left;"/>
+			<div style="float: left; margin-left: 30px; width: 65%;">
+				<p style="font-size: 14pt; color: #fff; margin-top: -30px; padding: 0; line-height: 32px;"></br>For more information about this issue and<br>possible fixes, visit</br><a href="http://npmc.meowcat.org/">http://npmc.meowcat.org/</a></br></br>If you call a support person, give them this info:</br>Error Code: ERROR_404_NOT_FOUND</p>
+			</div>
+		</div>
+	</body>
+</html> 
