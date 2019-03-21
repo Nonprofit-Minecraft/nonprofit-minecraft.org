@@ -1,8 +1,14 @@
 [
   {
-    "name": "Demo",
-    "url": "https://www.google.com",
+    "name": "示例认证服务器",
+    "url": "http://http://nonprofit-minecraft.org/",
     "icon": "https://www.minecraft.net/content/dam/archive/004ee7b7e5f5539221fb7613a0ff7100-Itsanewvidheadermate.jpg",
-    "desc": "Desc"
+    "desc": "一个弘扬公益宣言精神并执行公益宣言公约的认证服务器。"
+  },
+  {
+    "name": "示例认证服务器",
+    "url": "http://http://nonprofit-minecraft.org/",
+    "icon": "/assets/logo.png",
+    "desc": "一个弘扬公益宣言精神并执行公益宣言公约的认证服务器。"
   }
 ]
