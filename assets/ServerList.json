@@ -1,14 +1,8 @@
 [
   {
-    "name": "示例认证服务器",
-    "url": "http://http://nonprofit-minecraft.org/",
-    "icon": "https://www.minecraft.net/content/dam/archive/004ee7b7e5f5539221fb7613a0ff7100-Itsanewvidheadermate.jpg",
-    "desc": "一个弘扬公益宣言精神并执行公益宣言公约的认证服务器。"
-  },
-  {
-    "name": "示例认证服务器",
-    "url": "http://http://nonprofit-minecraft.org/",
-    "icon": "/assets/default_logo854.png",
-    "desc": "一个弘扬公益宣言精神并执行公益宣言公约的认证服务器。"
+    "name": "梦幻国度",
+    "url": "https://jq.qq.com/?_wv=1027&k=5NZn3uT",
+    "icon": "/assets/magical_land_logo.jpg",
+    "desc": "一个多元化的神奇宝贝公益服务器"
   }
 ]
