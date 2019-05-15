@@ -46,5 +46,17 @@
     "url": "https://www.mcshiyi.com/",
     "icon": "/assets/timory.png",
     "desc": "致力于打造国内高素质玩家社区，欢迎你的加入～(￣▽￣～)~"
+  },
+  {
+    "name": "mem囧TZ",
+    "url": "https://bbs.memotz.com/",
+    "icon": "https://user-images.githubusercontent.com/14276116/57177166-164ef800-6e94-11e9-8cef-fd6dc81e0b7a.png",
+    "desc": "我们只想建设一个能承载大家回忆的地方，这是一群咸鱼史蒂夫的共识~"
+  },
+  {
+    "name": "SakuraFall 桜落坊",
+    "url": "http://www.mcbbs.net/forum.php?mod=viewthread&tid=665417",
+    "icon": "https://camo.githubusercontent.com/6c78ec26cd89580f4d12a63a5f1230598a4e7124/68747470733a2f2f6d69616f2e73752f696d616765732f323031392f30352f31352f5151323031393035313531393538343265303034332e706e67",
+    "desc": "SakuraFall丨一只小喵喵的养成之处w 养老丨原版轻RPG丨正版"
   }
 ]
